@@ -1,0 +1,10 @@
+P40_summary_tokens=55
+P60_summary_tokens=62
+P50_story_tokens=735
+TARGET_WORDS_SHORT=32  # from SHORT-bucket median
+TARGET_WORDS_LONG=45    # from LONG-bucket median
+
+Counts:
+QA selected: 50
+Summ SHORT selected: 50
+Summ LONG selected: 50

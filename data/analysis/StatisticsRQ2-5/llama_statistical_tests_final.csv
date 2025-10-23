@@ -1,0 +1,13 @@
+"Metric","Test","Group1","Group2","Statistic","P_value","Effect_Size"
+"latency_s_per_token","Dunn post-hoc","FP16","INT4",NA,1.98468072148993e-17,0.822952710495963
+"latency_s_per_token","Dunn post-hoc","FP16","INT8",NA,2.09448107056894e-05,0.519607843137255
+"latency_s_per_token","Dunn post-hoc","INT4","INT8",NA,2.14096402410749e-05,-0.579994316567207
+"memory_mb","Dunn post-hoc","FP16","INT4",NA,7.29721615792539e-09,1
+"memory_mb","Dunn post-hoc","FP16","INT8",NA,4.22752239966493e-38,1
+"memory_mb","Dunn post-hoc","INT4","INT8",NA,4.77368166611581e-09,1
+"cpu_percent","Dunn post-hoc","FP16","INT4",NA,2.81389829055448e-13,0.858131487889273
+"cpu_percent","Dunn post-hoc","FP16","INT8",NA,1,-0.0664961636828644
+"cpu_percent","Dunn post-hoc","INT4","INT8",NA,4.60830514253925e-14,-0.763000852514919
+"energy_j_per_token","Dunn post-hoc","FP16","INT4",NA,1.09218957191071e-16,0.817185697808535
+"energy_j_per_token","Dunn post-hoc","FP16","INT8",NA,1.25630876956322e-09,0.68158567774936
+"energy_j_per_token","Dunn post-hoc","INT4","INT8",NA,0.0227721802388202,-0.37027564649048
